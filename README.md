@@ -1,2 +1,1 @@
-# VizProject1
-World Population Distribution
+CS 424 Projects
